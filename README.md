@@ -12,11 +12,10 @@ Este proyecto es una práctica para aprender el uso de Git y GitHub. Se centra e
 
 1. Clona este repositorio en tu máquina local:
    ```bash
-git clone https://github.com/hacUPB/prog-2510-git-github-facaesmo7.git
+   git clone https://github.com/hacUPB/prog-2510-git-github-facaesmo7.git
+   cd prog-2510-git-github
+   python src/promedio.py
+   ```
 
-cd prog-2510-git-github
-
-
-python src/promedio.py
-
-
+# Tabla de contenido
+[Uso de la consola](./docs/uso_consola.md)
